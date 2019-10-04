@@ -1,0 +1,4 @@
+Committing to a repository's default branch or gh-pages branch
+Opening an issue
+Proposing a pull request
+Submitting a pull request review
